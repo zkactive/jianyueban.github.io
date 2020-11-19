@@ -1,29 +1,29 @@
 # Site settings
-title: Moon worm
-SEOTitle: Moonworm的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: 张坤の博客
+SEOTitle: Moonworm的博客 | 薛定谔のdog
+#header-img: img/post-bg-desk._jpg
 email: 2446082839@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Moonworm的博客, Moonworm, 张坤, iOS, Apple, iPhone"
 url: "http://zkactive.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zkactive/zkactive.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "当你的知识配不上你的野心的时候，就静下心来去学习。。。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     薛定谔のdog
+zhihu_username:     薛定谔のdog
+github_username:    薛定谔のdog
+facebook_username:  薛定谔のdog
+jianshu_username:   薛定谔のdog
+#twitter_username:   薛定谔のdog
 
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://www.jianshu.com/u/230c645238a8"
     },{
         title: "Apple",
         href: "https://apple.com"
